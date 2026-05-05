@@ -46,3 +46,18 @@ yang paling populer dan ramah pemula
 yang super stabil dan irit *resource*
 **KALI LINUX**
 yang sering di bilang gudangnya *tools* untuk *cyber security* dan *networking*.
+
+### 1. Melihat "Menu" Daftar Distro (Cek Online)
+Sebelum menginstal, harus tahu dulu OS apa saja yang didukung secara resmi. Buka **PowerShell**, lalu ketik perintah ini:
+
+```bash
+wsl --list --online
+```
+lalu setelah itu akan banyak muncul banyak sekali distro. Perhatikan baik-baik teks yang ada di kolom NAME, karena nama itulah yang akan kita gunakan untuk memanggil perintah instalasi.
+
+### 2. Mengeksekusi Instalasi Distro Spesifik
+Misalnya, dari daftar tersebut, tertarik ingin mencoba Debian. Maka, gunakan perintah instalasi standar yang ditambahkan parameter -d (singkatan dari Distribution), lalu diikuti nama distronya.
+
+```bash
+wsl --install -d Debian
+```
