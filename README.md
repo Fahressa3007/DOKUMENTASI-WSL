@@ -53,6 +53,9 @@ Sebelum menginstal, harus tahu dulu OS apa saja yang didukung secara resmi. Buka
 ```bash
 wsl --list --online
 ```
+
+<img width="929" height="472" alt="Cuplikan layar 2026-05-06 003411" src="https://github.com/user-attachments/assets/d070926b-a58b-4e55-97e0-71e2fdbad482" />
+
 lalu setelah itu akan banyak muncul banyak sekali distro. Perhatikan baik-baik teks yang ada di kolom NAME, karena nama itulah yang akan gunakan untuk memanggil perintah instalasi.
 
 ### 2. Mengeksekusi Instalasi Distro Spesifik
