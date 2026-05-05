@@ -3,7 +3,7 @@ ibaratnya memasang linux dengan sistem operasi windows dengan terminal. Tidak la
 ### Beberapa keunggulan WSL
 **1. Environment Web Development yang Lebih Realistis**
 
-Hampir semua server hosting di internet menggunakan Linux. Ketika kamu sedang membangun website (misalnya menggunakan kombinasi PHP dan MySQL) atau sedang menyiapkan project hub untuk portofolio, menjalankannya di atas WSL membuat environment di komputermu sama persis dengan server asli. Ini sangat meminimalisir error ketika website nantinya di- online -kan.
+Hampir semua server hosting di internet menggunakan Linux. Ketika sedang membangun website (misalnya menggunakan kombinasi PHP dan MySQL) atau sedang menyiapkan project hub untuk portofolio, menjalankannya di atas WSL membuat environment di komputermu sama persis dengan server asli. Ini sangat meminimalisir error ketika website nantinya di- online -kan.
 
 **2. Surga untuk Opreker Android**
 
@@ -15,7 +15,7 @@ Di dunia jaringan komputer, Linux adalah gudangnya tools Command Line (CLI) yang
 
 **4. Integrasi Lintas OS yang Mulus**
 
-WSL ini menyatu dengan file system Windows. Artinya, kamu bisa mengedit kode menggunakan aplikasi Windows (seperti Visual Studio Code), lalu mengeksekusi kode tersebut menggunakan terminal Linux yang ada di sebelahnya. Semuanya berjalan harmonis di satu layar.
+WSL ini menyatu dengan file system Windows. Artinya, bisa mengedit kode menggunakan aplikasi Windows (seperti Visual Studio Code), lalu mengeksekusi kode tersebut menggunakan terminal Linux yang ada di sebelahnya. Semuanya berjalan harmonis di satu layar.
 
 
 
@@ -24,9 +24,7 @@ WSL ini menyatu dengan file system Windows. Artinya, kamu bisa mengedit kode men
 Sekarang masuk ke bagian serunya. Cara pasang Linux di Windows ini jauh lebih mudah dari zaman dulu, cuma butuh satu perintah sakti!
 
 ### 1. Buka Gerbang Utama (PowerShell as Admin)
-Pertama, kita butuh hak akses penuh ke sistem. Buka **Start Menu**, cari **PowerShell**, lalu klik kanan dan wajib pilih **Run as Administrator**. Kalau tidak pakai akses admin, Windows pasti menolak permintaan instalasi kita.
-
-[Taruh gambar screenshot buka PowerShell di sini]
+Pertama, butuh hak akses penuh ke sistem. Buka **Start Menu**, cari **PowerShell**, lalu klik kanan dan wajib pilih **Run as Administrator**. Kalau tidak pakai akses admin, Windows pasti menolak permintaan instalasi kita.
 
 ### 2. Eksekusi Perintah Sakti
 Setelah layar biru (atau hitam) PowerShell terbuka, ketikkan mantra di bawah ini, lalu tekan Enter:
