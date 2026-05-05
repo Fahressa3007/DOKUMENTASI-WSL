@@ -35,6 +35,14 @@ wsl --install
 
 <img width="784" height="88" alt="Cuplikan layar 2026-05-05 220236" src="https://github.com/user-attachments/assets/574c6c66-562a-43d0-bb29-047184de7b6a" />
 
+
 ## 🐧 Mengenal dan Menginstal Distro Linux Pilihan
 
-Buat yang belum tahu, Linux itu punya banyak "rasa" atau versi yang disebut **Distro (Distribusi)**.
+Linux itu punya banyak "rasa" atau versi yang disebut **Distro (Distribusi)**.
+ada 3 distro yang sangat populer.
+**UBUNTU**
+yang paling populer dan ramah pemula
+**DEBIAN**
+yang super stabil dan irit *resource*
+**KALI LINUX**
+yang sering di bilang gudangnya *tools* untuk *cyber security* dan *networking*.
