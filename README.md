@@ -17,3 +17,19 @@ Di dunia jaringan komputer, Linux adalah gudangnya tools Command Line (CLI) yang
 
 WSL ini menyatu dengan file system Windows. Artinya, kamu bisa mengedit kode menggunakan aplikasi Windows (seperti Visual Studio Code), lalu mengeksekusi kode tersebut menggunakan terminal Linux yang ada di sebelahnya. Semuanya berjalan harmonis di satu layar.
 
+
+
+## 🛠️ Langkah-Langkah Instalasi WSL
+
+Sekarang masuk ke bagian serunya. Cara pasang Linux di Windows ini jauh lebih mudah dari zaman dulu, cuma butuh satu perintah sakti!
+
+### 1. Buka Gerbang Utama (PowerShell as Admin)
+Pertama, kita butuh hak akses penuh ke sistem. Buka **Start Menu**, cari **PowerShell**, lalu klik kanan dan wajib pilih **Run as Administrator**. Kalau tidak pakai akses admin, Windows pasti menolak permintaan instalasi kita.
+
+[Taruh gambar screenshot buka PowerShell di sini]
+
+### 2. Eksekusi Perintah Sakti
+Setelah layar biru (atau hitam) PowerShell terbuka, ketikkan mantra di bawah ini, lalu tekan Enter:
+
+```bash
+wsl --install
