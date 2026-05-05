@@ -31,3 +31,4 @@ Setelah layar biru (atau hitam) PowerShell terbuka, ketikkan mantra di bawah ini
 
 ```bash
 wsl --install
+<img width="784" height="88" alt="Cuplikan layar 2026-05-05 220236" src="https://github.com/user-attachments/assets/574c6c66-562a-43d0-bb29-047184de7b6a" />
