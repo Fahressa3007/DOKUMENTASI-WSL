@@ -26,7 +26,7 @@ Sekarang masuk ke bagian serunya. Cara pasang Linux di Windows ini jauh lebih mu
 ### 1. Buka Gerbang Utama (PowerShell as Admin)
 Pertama, butuh hak akses penuh ke sistem. Buka **Start Menu**, cari **PowerShell**, lalu klik kanan dan wajib pilih **Run as Administrator**. Kalau tidak pakai akses admin, Windows pasti menolak permintaan instalasi kita.
 
-### 2. Eksekusi Perintah Sakti
+### 2. Eksekusi Perintah
 Setelah layar biru (atau hitam) PowerShell terbuka, ketikkan mantra di bawah ini, lalu tekan Enter:
 
 ```bash
