@@ -53,7 +53,7 @@ Sebelum menginstal, harus tahu dulu OS apa saja yang didukung secara resmi. Buka
 ```bash
 wsl --list --online
 ```
-lalu setelah itu akan banyak muncul banyak sekali distro. Perhatikan baik-baik teks yang ada di kolom NAME, karena nama itulah yang akan kita gunakan untuk memanggil perintah instalasi.
+lalu setelah itu akan banyak muncul banyak sekali distro. Perhatikan baik-baik teks yang ada di kolom NAME, karena nama itulah yang akan gunakan untuk memanggil perintah instalasi.
 
 ### 2. Mengeksekusi Instalasi Distro Spesifik
 Misalnya, dari daftar tersebut, tertarik ingin mencoba Debian. Maka, gunakan perintah instalasi standar yang ditambahkan parameter -d (singkatan dari Distribution), lalu diikuti nama distronya.
