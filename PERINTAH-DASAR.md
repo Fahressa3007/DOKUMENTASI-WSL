@@ -8,11 +8,6 @@ Perintah-perintah ini digunakan untuk mengatur status distro Linux dari luar.
 
 *   **Masuk ke Debian:**
     Jika sedang berada di PowerShell dan ingin langsung masuk ke terminal Debian, cukup ketik:
-
-    ```bash
-    wsl distro Debian
-    ```
-    bisa di singkat dengan :
     
     ```bash
     wsl -d Debian
@@ -27,7 +22,11 @@ Perintah-perintah ini digunakan untuk mengatur status distro Linux dari luar.
     sudo su
     ```
 *   **Mematikan Debian (Terminate):**
-    Jika Debian sedang *error* atau ingin me- *restart* layanannya tanpa me- *restart* Windows:
+    Jika Debian sedang *error* atau ingin me- *restart* layanannya tanpa me- *restart* Windows dengan catatan harus keluar wsl dengan comen:
+    ```bash
+    exit
+    ```
+    lalu jika sudah berapda di powerShell gunakan perintah, untuk menghentikan/mematikan:
     ```bash
     wsl -t Debian
     ```
