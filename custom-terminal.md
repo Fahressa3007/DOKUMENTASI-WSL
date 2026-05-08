@@ -7,10 +7,10 @@ Zsh diciptakan untuk menutupi kelemahan Bash dalam hal interaksi pengguna. Zsh l
 
 Fitur Teknis Utama Zsh:
 
-* 1. Path Expansion (Ekspansi Direktori): Jika kamu ingin masuk ke /usr/local/bin, di Zsh kamu cukup mengetik cd /u/l/b lalu menekan Tab. Zsh akan membaca pola tersebut dan melengkapinya secara otomatis.
+* Path Expansion (Ekspansi Direktori): Jika kamu ingin masuk ke /usr/local/bin, di Zsh kamu cukup mengetik cd /u/l/b lalu menekan Tab. Zsh akan membaca pola tersebut dan melengkapinya secara otomatis.
 
-* 2. Case-Insensitive Completion: Di Bash, jika folder bernama Documents dan kamu mengetik cd doc lalu menekan Tab, Bash tidak akan merespons karena huruf 'd' kecil tidak sama dengan 'D' besar. Di Zsh, ia akan mengabaikan perbedaan huruf besar/kecil dan tetap melengkapinya menjadi Documents.
+* Case-Insensitive Completion: Di Bash, jika folder bernama Documents dan kamu mengetik cd doc lalu menekan Tab, Bash tidak akan merespons karena huruf 'd' kecil tidak sama dengan 'D' besar. Di Zsh, ia akan mengabaikan perbedaan huruf besar/kecil dan tetap melengkapinya menjadi Documents.
 
-* 3. Advanced Globbing: Zsh memiliki sistem pencarian file (menggunakan tanda bintang *) yang jauh lebih kuat. Misalnya, kamu bisa dengan mudah mencari "semua file berekstensi .txt yang ukurannya di atas 10MB" hanya dengan satu baris perintah pendek.
+* Advanced Globbing: Zsh memiliki sistem pencarian file (menggunakan tanda bintang *) yang jauh lebih kuat. Misalnya, kamu bisa dengan mudah mencari "semua file berekstensi .txt yang ukurannya di atas 10MB" hanya dengan satu baris perintah pendek.
 
-* 4.Shared History: Jika kamu membuka tiga jendela terminal secara bersamaan, perintah yang kamu ketik di jendela pertama akan langsung tersimpan dan bisa dipanggil (dengan tombol panah atas) di jendela kedua dan ketiga secara real-time.
+* Shared History: Jika kamu membuka tiga jendela terminal secara bersamaan, perintah yang kamu ketik di jendela pertama akan langsung tersimpan dan bisa dipanggil (dengan tombol panah atas) di jendela kedua dan ketiga secara real-time.
